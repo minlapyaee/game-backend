@@ -2,7 +2,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Slot Gam Server</h3>
+  <h3 align="center">Slot Game Server</h3>
 </div>
 
 
